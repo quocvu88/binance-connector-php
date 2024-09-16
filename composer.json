@@ -1,14 +1,14 @@
 {
-    "name": "binance/binance-connector-php",
-    "description": "A thin layer for Binance API in PHP",
-    "homepage": "https://github.com/binance/binance-connector-php",
+    "name": "quocvu88/binance-connector-php",
+    "description": "A fork of Binance Connector - A thin layer for Binance API in PHP",
+    "homepage": "https://github.com/quocvu88/binance-connector-php",
     "type": "library",
     "minimum-stability": "stable",
     "license": "MIT",
     "authors": [
         {
-            "name": "Binance",
-            "email": "contact@binance.com"
+            "name": "Quoc Vu",
+            "email": "quocvu88@gmail.com"
         }
     ],
     "require": {
